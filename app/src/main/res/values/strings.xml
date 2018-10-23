@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ux</string>
+    <string name="title_explore">Explore</string>
+    <string name="title_search">Search</string>
+    <string name="title_account">Account</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_movie">MovieActivity</string>
+    <string name="search_bar_hint">Search for a movie…</string>
+
+    <string name="spacejam_url">https://images-na.ssl-images-amazon.com/images/I/91joK1LrCiL._RI_.jpg</string>
+    <string name="title_history">History</string>
+    <string name="title_friends">Friends</string>
+    <string name="title_my_movies">My Movies</string>
+</resources>
